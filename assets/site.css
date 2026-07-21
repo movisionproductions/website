@@ -14,3 +14,7 @@
 .format-note{margin:22px 0 2px;color:var(--green)}
 .testimonial-divider{width:110px;height:2px;background:var(--gold);margin:36px auto}
 .amazon-review-btn{background:transparent;color:var(--green);border-color:var(--gold)}
+
+/* Companion Guide call-to-action */
+.companion-btn { background: #d9a11f; color: #102d3c; }
+.companion-btn:hover { filter: brightness(.95); }
